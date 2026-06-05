@@ -15,4 +15,3 @@ data/
 coverage/
 htmlcov/
 *.log
-package-lock.json
