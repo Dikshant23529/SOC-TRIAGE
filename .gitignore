@@ -1,0 +1,17 @@
+node_modules/
+frontend/dist/
+dist/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+data/
+*.db
+.DS_Store
+.idea/
+.vscode/
+coverage/
+htmlcov/
+*.log
